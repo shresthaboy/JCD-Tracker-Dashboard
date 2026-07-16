@@ -15,5 +15,3 @@ Power BI dashboard for tracking Job Control Documents across Scaffolding, Insula
 ---
 
 To use: Download the `.pbix` file and open in Power BI Desktop.
-
-<img width="1273" height="723" alt="image" src="https://github.com/user-attachments/assets/ac75b53a-d8da-4360-ae97-1fbe4dd89715" />
